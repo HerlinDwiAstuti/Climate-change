@@ -1,2 +1,1 @@
-# Climate-change
-Data science for climate change
+# Data science for climate change
